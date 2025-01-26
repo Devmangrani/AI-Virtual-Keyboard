@@ -1,6 +1,6 @@
 # AI Virtual Keyboard with Hand Gesture Recognition
 
-![AI Virtual Keyboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40abhijeetas8660211%2Funlocking-the-future-of-typing-ai-virtual-keyboards-and-computer-vision-join-forces-8c883113396a&psig=AOvVaw2zySo9oGL7TAW2LMkw2l4R&ust=1738005366242000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjC2d-MlIsDFQAAAAAdAAAAABAE)
+![AI Virtual Keyboard]()
 
 ## 🚀 Overview
 An innovative AI-powered virtual keyboard that allows users to type without physical contact using hand gestures. This project leverages computer vision and artificial intelligence to create a touchless typing interface, making it particularly relevant in today's contactless technology trend.
@@ -117,9 +117,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Hand detection model contributors
 
 ## 📞 Contact
-- Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Your Name : Dev Mangrani
+- GitHub: [@Devmangrani](https://github.com/Devmangrani)
+- Email: devmangrani@gmail.com
 
 ---
 ⭐️ If you found this project interesting, please consider giving it a star!
