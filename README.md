@@ -1,7 +1,5 @@
 # AI Virtual Keyboard with Hand Gesture Recognition
 
-![AI Virtual Keyboard]()
-
 ## 🚀 Overview
 An innovative AI-powered virtual keyboard that allows users to type without physical contact using hand gestures. This project leverages computer vision and artificial intelligence to create a touchless typing interface, making it particularly relevant in today's contactless technology trend.
 
